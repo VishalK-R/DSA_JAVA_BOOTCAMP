@@ -5,10 +5,10 @@ import java.util.Scanner;
 public class Assignment1 {
     public static void main(String[] args) {
 //        findLeapYear();
-//        printSumOfTwoNumbers();
+        printSumOfTwoNumbers();
 //        printMultiplicationTable();
 //        printHCFAndLCM();
-        printSumOfAll();
+//        printSumOfAll();
     }
 
     /*
@@ -33,6 +33,7 @@ public class Assignment1 {
         }else{
             System.out.println(year+" is not leap year");
         }
+        sc.close();
     }
 
     /*
@@ -50,6 +51,7 @@ public class Assignment1 {
         int num2 = sc.nextInt();
         int sum = num1+num2;
         System.out.println("the sum of "+num1+" "+num2+" = "+sum);
+        sc.close();
     }
 
     /*
@@ -67,6 +69,7 @@ public class Assignment1 {
         for(int i=1;i<=10;i++){
             System.out.println(num+" * "+i+" = "+(num*i));
         }
+        sc.close();
     }
 
     /*
@@ -101,6 +104,7 @@ public class Assignment1 {
         int lcm = (num1*num2)/hcf;
 
         System.out.println("HCF and LCM of "+num1+" "+num2+" is "+hcf+" "+lcm );
+        sc.close();
     }
 
     /*
@@ -128,5 +132,6 @@ public class Assignment1 {
                 sum += Integer.parseInt(value);
             }
         }
+        sc.close();
     }
 }

@@ -44,9 +44,15 @@
     "Application.Assignment1.executor": "Run",
     "Application.Assignment2.executor": "Run",
     "Application.Assignment3.executor": "Run",
+    "Application.BuildArrayFromPermutation.executor": "Debug",
     "Application.Circle.executor": "Run",
+    "Application.ConcatenationOfArray.executor": "Run",
+    "Application.LeetCode1.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.RichestCustomerWealth.executor": "Run",
+    "Application.RunningSumOf1DArray.executor": "Run",
     "Application.ScaleneTriangle.executor": "Run",
+    "Application.ShuffleTheArray.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -83,5 +89,29 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/Arrays/BuildArrayFromPermutation.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/Arrays/BuildArrayFromPermutation.java</url>
+          <line>34</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/Arrays/ShuffleTheArray.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

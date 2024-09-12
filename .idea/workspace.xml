@@ -48,7 +48,10 @@
     "Application.CheckIfTheSentenceIsPangram.executor": "Run",
     "Application.Circle.executor": "Run",
     "Application.ConcatenationOfArray.executor": "Run",
+    "Application.CountItemsMatchingARule.executor": "Run",
     "Application.CreateTargetArrayInTheGivenOrder.executor": "Run",
+    "Application.FindTheHighestAltitude.executor": "Run",
+    "Application.FlippingAnImage.executor": "Run",
     "Application.KidsWithGreatestNumberOfCandies.executor": "Run",
     "Application.LeetCode1.executor": "Run",
     "Application.Main.executor": "Run",
@@ -110,6 +113,16 @@
             <option name="lambda-ordinal" value="-1" />
           </properties>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/Arrays/FindTheHighestAltitude.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/Arrays/FlippingAnImage.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

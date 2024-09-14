@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1b12db95-a32c-4840-ad93-e36221c5bdcb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/Arrays/CellsWithOddValuesInMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/Arrays/CellsWithOddValuesInMatrix.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,22 +46,26 @@
     "Application.Assignment2.executor": "Run",
     "Application.Assignment3.executor": "Run",
     "Application.BuildArrayFromPermutation.executor": "Debug",
+    "Application.CellsWithOddValuesInMatrix.executor": "Run",
     "Application.CheckIfTheSentenceIsPangram.executor": "Run",
     "Application.Circle.executor": "Run",
     "Application.ConcatenationOfArray.executor": "Run",
     "Application.CountItemsMatchingARule.executor": "Run",
     "Application.CreateTargetArrayInTheGivenOrder.executor": "Run",
+    "Application.FindNumbersWithEvenNumber.executor": "Run",
     "Application.FindTheHighestAltitude.executor": "Run",
     "Application.FlippingAnImage.executor": "Run",
     "Application.KidsWithGreatestNumberOfCandies.executor": "Run",
     "Application.LeetCode1.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MatrixDiagonalSum.executor": "Run",
     "Application.NumberOfGoodPairs.executor": "Run",
     "Application.RichestCustomerWealth.executor": "Run",
     "Application.RunningSumOf1DArray.executor": "Run",
     "Application.ScaleneTriangle.executor": "Run",
     "Application.ShuffleTheArray.executor": "Run",
     "Application.SmallerThanTheCurrentNumber.executor": "Run",
+    "Application.TransposeMatrix.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -113,16 +118,6 @@
             <option name="lambda-ordinal" value="-1" />
           </properties>
           <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/java/Arrays/FindTheHighestAltitude.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/java/Arrays/FlippingAnImage.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

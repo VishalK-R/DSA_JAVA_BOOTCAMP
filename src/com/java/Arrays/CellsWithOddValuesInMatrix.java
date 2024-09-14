@@ -2,6 +2,12 @@ package com.java.Arrays;
 
 public class CellsWithOddValuesInMatrix {
 
+    public static void main(String[] args) {
+        int m = 2, n = 3;
+        int [][] indices = {{0,1},{1,1}};
+        System.out.println(oddCells(m,n,indices));
+    }
+
     /*There is an m x n matrix that is initialized to all 0's. There is also a 2D array
     indices where each indices[i] = [ri, ci] represents a 0-indexed location to perform
     some increment operations on the matrix.
@@ -13,7 +19,7 @@ public class CellsWithOddValuesInMatrix {
     Given m, n, and indices, return the number of odd-valued cells in the matrix after
     applying the increment to all locations in indices.
      */
-    public int oddCells(int m, int n, int[][] indices) {
+    public static int oddCells(int m, int n, int[][] indices) {
         int [][] newMatrix = new int[m][n];
         for(int [] indice : indices){
             int row = indice[0];
@@ -32,7 +38,7 @@ public class CellsWithOddValuesInMatrix {
         return odd;
     }
 
-    private void updateColumnOfNewMatrix(int[][] newMatrix, int column) {
+    private static void updateColumnOfNewMatrix(int[][] newMatrix, int column) {
         for(int [] matrix : newMatrix){
             matrix[column]++;
         }

@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1b12db95-a32c-4840-ad93-e36221c5bdcb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/Arrays/CellsWithOddValuesInMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/Arrays/CellsWithOddValuesInMatrix.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +41,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AddToArrayFormOfInteger.executor": "Run",
     "Application.Assignment1.executor": "Run",
     "Application.Assignment2.executor": "Run",
     "Application.Assignment3.executor": "Run",
@@ -52,6 +52,7 @@
     "Application.ConcatenationOfArray.executor": "Run",
     "Application.CountItemsMatchingARule.executor": "Run",
     "Application.CreateTargetArrayInTheGivenOrder.executor": "Run",
+    "Application.DetermineWhetherMatrixCanBeObtainedByRotation.executor": "Run",
     "Application.FindNumbersWithEvenNumber.executor": "Run",
     "Application.FindTheHighestAltitude.executor": "Run",
     "Application.FlippingAnImage.executor": "Run",
@@ -59,6 +60,7 @@
     "Application.LeetCode1.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MatrixDiagonalSum.executor": "Run",
+    "Application.MaximumPopulationYear.executor": "Run",
     "Application.NumberOfGoodPairs.executor": "Run",
     "Application.RichestCustomerWealth.executor": "Run",
     "Application.RunningSumOf1DArray.executor": "Run",
@@ -71,16 +73,10 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Code/JAVA_DSA_BOOT",
     "settings.editor.selected.configurable": "preferences.sourceCode.Java"
   }
 }]]></component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-1.8.0_402-corretto-1.8.0_402-4caba194b151-ae57be32" />
-      </set>
-    </attachedChunks>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -118,6 +114,24 @@
             <option name="lambda-ordinal" value="-1" />
           </properties>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/Arrays/AddToArrayFormOfInteger.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/Arrays/DetermineWhetherMatrixCanBeObtainedByRotation.java</url>
+          <line>28</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/Arrays/DetermineWhetherMatrixCanBeObtainedByRotation.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

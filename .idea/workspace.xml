@@ -53,21 +53,28 @@
     "Application.CountItemsMatchingARule.executor": "Run",
     "Application.CreateTargetArrayInTheGivenOrder.executor": "Run",
     "Application.DetermineWhetherMatrixCanBeObtainedByRotation.executor": "Run",
+    "Application.FindNUniqueIntegersSumUpToZero.executor": "Run",
     "Application.FindNumbersWithEvenNumber.executor": "Run",
     "Application.FindTheHighestAltitude.executor": "Run",
     "Application.FlippingAnImage.executor": "Run",
     "Application.KidsWithGreatestNumberOfCandies.executor": "Run",
     "Application.LeetCode1.executor": "Run",
+    "Application.LuckyNumbersInAMatrix.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MatrixDiagonalSum.executor": "Run",
+    "Application.MaxSubArray.executor": "Run",
     "Application.MaximumPopulationYear.executor": "Run",
     "Application.NumberOfGoodPairs.executor": "Run",
+    "Application.PlusOne.executor": "Run",
+    "Application.RemoveDuplicatesFromSortedArray.executor": "Run",
+    "Application.ReshapeTheMatrix.executor": "Run",
     "Application.RichestCustomerWealth.executor": "Run",
     "Application.RunningSumOf1DArray.executor": "Run",
     "Application.ScaleneTriangle.executor": "Run",
     "Application.ShuffleTheArray.executor": "Run",
     "Application.SmallerThanTheCurrentNumber.executor": "Run",
     "Application.TransposeMatrix.executor": "Run",
+    "Application.TwoSum.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -132,6 +139,31 @@
           <url>file://$PROJECT_DIR$/src/com/java/Arrays/DetermineWhetherMatrixCanBeObtainedByRotation.java</url>
           <line>19</line>
           <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/Arrays/TwoSum.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/Arrays/MaxSubArray.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/Arrays/ReshapeTheMatrix.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/Arrays/PlusOne.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/Arrays/PlusOne.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

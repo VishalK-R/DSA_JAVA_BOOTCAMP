@@ -64,6 +64,7 @@
     "Application.MatrixDiagonalSum.executor": "Run",
     "Application.MaxSubArray.executor": "Run",
     "Application.MaximumPopulationYear.executor": "Run",
+    "Application.MinCostToMoveChipsToTheSamePosition.executor": "Run",
     "Application.NumberOfGoodPairs.executor": "Run",
     "Application.PlusOne.executor": "Run",
     "Application.RemoveDuplicatesFromSortedArray.executor": "Run",
@@ -73,6 +74,9 @@
     "Application.ScaleneTriangle.executor": "Run",
     "Application.ShuffleTheArray.executor": "Run",
     "Application.SmallerThanTheCurrentNumber.executor": "Run",
+    "Application.SpiralMatrix.executor": "Run",
+    "Application.SpiralMatrixII.executor": "Run",
+    "Application.SpiralMatrixIII.executor": "Run",
     "Application.TransposeMatrix.executor": "Run",
     "Application.TwoSum.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -164,6 +168,21 @@
           <url>file://$PROJECT_DIR$/src/com/java/Arrays/PlusOne.java</url>
           <line>59</line>
           <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/Arrays/Medium/SpiralMatrix.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/Arrays/Medium/SpiralMatrixII.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/Arrays/Medium/SpiralMatrixII.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

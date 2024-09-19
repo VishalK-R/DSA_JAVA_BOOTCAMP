@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="1b12db95-a32c-4840-ad93-e36221c5bdcb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/Arrays/MaxSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/Arrays/MaxSubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/Arrays/ReshapeTheMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/Arrays/ReshapeTheMatrix.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,16 +69,19 @@
     "Application.MinCostToMoveChipsToTheSamePosition.executor": "Run",
     "Application.NumberOfGoodPairs.executor": "Run",
     "Application.PlusOne.executor": "Run",
+    "Application.ProductOfArrayExceptSelf.executor": "Debug",
     "Application.RemoveDuplicatesFromSortedArray.executor": "Run",
     "Application.ReshapeTheMatrix.executor": "Run",
     "Application.RichestCustomerWealth.executor": "Run",
     "Application.RunningSumOf1DArray.executor": "Run",
     "Application.ScaleneTriangle.executor": "Run",
+    "Application.SetMatrixZeros.executor": "Run",
     "Application.ShuffleTheArray.executor": "Run",
     "Application.SmallerThanTheCurrentNumber.executor": "Run",
     "Application.SpiralMatrix.executor": "Run",
     "Application.SpiralMatrixII.executor": "Run",
     "Application.SpiralMatrixIII.executor": "Run",
+    "Application.SpiralMatrixIV.executor": "Run",
     "Application.TransposeMatrix.executor": "Run",
     "Application.TwoSum.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -156,7 +161,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/java/Arrays/ReshapeTheMatrix.java</url>
-          <line>33</line>
+          <line>32</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -183,6 +188,21 @@
           <url>file://$PROJECT_DIR$/src/com/java/Arrays/Medium/SpiralMatrixII.java</url>
           <line>20</line>
           <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/Arrays/Medium/SpiralMatrixIV.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/Arrays/Medium/ProductOfArrayExceptSelf.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/Arrays/Medium/ProductOfArrayExceptSelf.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="33" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -13,17 +13,17 @@ public class MaxSubArray {
         int consecutiveSum = nums[0];
         int max = nums[0];
         for (int i = 1; i < nums.length; i++) {
-            if(i==1){
-                if (consecutiveSum>0){
+//            if(i==1){
+                if (consecutiveSum>=0){
                     consecutiveSum+=nums[i];
                 }else {
                     consecutiveSum = nums[i];
                 }
-            }else if((consecutiveSum<0) && (nums[i]>consecutiveSum)){
-                consecutiveSum = nums[i];
-            }else {
-                consecutiveSum+=nums[i];
-            }
+//            }else if((consecutiveSum<0) && (nums[i]>consecutiveSum)){
+//                consecutiveSum = nums[i];
+//            }else {
+//                consecutiveSum+=nums[i];
+//            }
             if(consecutiveSum>max){
                 max = consecutiveSum;
             }

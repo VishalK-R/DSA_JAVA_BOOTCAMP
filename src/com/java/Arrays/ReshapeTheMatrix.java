@@ -27,7 +27,6 @@ public class ReshapeTheMatrix {
     public static int[][] matrixReshape(int[][] mat, int r, int c) {
         if(mat.length*mat[0].length!=r*c) return mat;
         int [][] reshapedMatrix = new int[r][c];
-        int cols = mat[0].length;
         int outRow = 0;
         int outCol = 0;
         for (int[] numAr : mat) {

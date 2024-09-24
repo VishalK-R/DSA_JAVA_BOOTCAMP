@@ -58,6 +58,7 @@
     "Application.FindNumbersWithEvenNumber.executor": "Run",
     "Application.FindTheHighestAltitude.executor": "Run",
     "Application.FlippingAnImage.executor": "Run",
+    "Application.HouseRobber.executor": "Debug",
     "Application.JumpGame.executor": "Run",
     "Application.JumpGameII.executor": "Run",
     "Application.KidsWithGreatestNumberOfCandies.executor": "Run",
@@ -261,6 +262,11 @@
           <url>file://$PROJECT_DIR$/src/com/java/Arrays/Medium/SortColors.java</url>
           <line>63</line>
           <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/Arrays/Medium/HouseRobber.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="48" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

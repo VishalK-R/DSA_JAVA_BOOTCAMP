@@ -57,8 +57,10 @@
     "Application.FindNUniqueIntegersSumUpToZero.executor": "Run",
     "Application.FindNumbersWithEvenNumber.executor": "Run",
     "Application.FindTheHighestAltitude.executor": "Run",
+    "Application.FirstMissingPositive.executor": "Run",
     "Application.FlippingAnImage.executor": "Run",
-    "Application.HouseRobber.executor": "Debug",
+    "Application.GoodArray.executor": "Run",
+    "Application.HouseRobber.executor": "Run",
     "Application.JumpGame.executor": "Run",
     "Application.JumpGameII.executor": "Run",
     "Application.KidsWithGreatestNumberOfCandies.executor": "Run",
@@ -67,6 +69,7 @@
     "Application.Main.executor": "Run",
     "Application.MatrixDiagonalSum.executor": "Run",
     "Application.MaxSubArray.executor": "Run",
+    "Application.MaxValueOfEquation.executor": "Debug",
     "Application.MaximumPopulationYear.executor": "Run",
     "Application.MinCostToMoveChipsToTheSamePosition.executor": "Run",
     "Application.NumberOfGoodPairs.executor": "Run",
@@ -267,6 +270,31 @@
           <url>file://$PROJECT_DIR$/src/com/java/Arrays/Medium/HouseRobber.java</url>
           <line>50</line>
           <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/Arrays/Hard/MaxValueOfEquation.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/Arrays/Hard/FirstMissingPositive.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/Arrays/Hard/FirstMissingPositive.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/Arrays/Hard/GoodArray.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/Arrays/Hard/GoodArray.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="55" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
